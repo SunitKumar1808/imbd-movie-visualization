@@ -1,10 +1,10 @@
-IMDb Movie Dataset Visualization
+# IMDb Movie Dataset Visualization
 
 The IMDb Movie Dataset Visualization is the process of converting raw movie data from IMDb into visual formats. This helps in analyzing various movie attributes, such as ratings, genres, cast, and revenue, allowing users to easily identify patterns and trends in the film industry.
 
 Key Aspects of IMDb Movie Dataset Visualization
 
-Rating Distribution
+## Rating Distribution
 
 Visualizes how movie ratings are distributed across different score ranges.
 Uses bar charts or histograms to display the frequency of ratings within different ranges.
@@ -12,7 +12,7 @@ Genre Popularity
 
 Shows the distribution of movies across different genres.
 Pie charts or bar graphs are used to highlight the most common or popular genres.
-Revenue Trends
+# Revenue Trends
 
 Tracks box office earnings over time.
 Line charts help show trends in revenue, identifying high-performing years or franchises.
